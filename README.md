@@ -1,4 +1,4 @@
-# genetic_algorithm_challenge
+# Genetic algorithm
 
 Overview
 ============
